@@ -1,6 +1,4 @@
 
-io
-sys
 anyio==2.1.0
 argon2-cffi==20.1.0
 async-generator==1.10
